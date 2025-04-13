@@ -1,1 +1,6 @@
 /backend/src/config.ts
+node_modules/
+.env
+__pycache__/
+dist/
+build/
